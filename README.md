@@ -9,4 +9,5 @@ Refactoring of the Horiseon Marketing HTML and CSS assets: </br>
   [](url![Screenshot1](https://user-images.githubusercontent.com/105601561/171036521-9364f7d8-70ac-49f5-a19c-560fe1d0f5c1.png)
   [](url![Screenshot2](https://user-images.githubusercontent.com/105601561/171036639-5fa03d87-4a1d-4cd8-886e-5bec774b8abe.png)
 
+  [](urlhttps://fmallard.github.io/Module1/)
   NOTE: I forgot to commit periodically so I simulated commits where I would have committed if I were to refactor a simular project
